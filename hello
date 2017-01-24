@@ -1,0 +1,12 @@
+/*first coding, by law and by custom*/
+#import <stdio.h>
+
+int main()
+
+{
+
+    printf("Hello, World!\n");
+
+    return 0;
+
+}
